@@ -34,5 +34,11 @@
     "key": "NMMS-1234",
     "expirydate": "23-10-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "ee1d7448e1d560e8",
+    "key": "NMMS-1234",
+    "expirydate": "27-8-2026",
+    "Allowoffline": false
   }
 ]
