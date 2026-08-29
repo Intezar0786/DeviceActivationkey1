@@ -1,4 +1,4 @@
-⁴[
+[
   {
     "device_id": "device123",
     "key": "key12345",
@@ -33,6 +33,12 @@
     "device_id": "017f660b36e8046a",
     "key": "NMMS-1234",
     "expirydate": "23-10-2026",
+    "Allowoffline": false
+  },
+    {
+    "device_id": "896ddff92dea55e6",
+    "key": "NMMS0786",
+    "expirydate": "15-10-2026",
     "Allowoffline": false
   }
   
