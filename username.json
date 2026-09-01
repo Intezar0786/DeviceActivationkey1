@@ -52,6 +52,12 @@
     "key": "NMMS786786786",
     "expirydate": "2-09-2026",
     "Allowoffline": false
-    }
+    },
+  {
+    "device_id": "a36948852e7dcbd6",
+    "key": "NMMS@786",
+    "expirydate": "2-09-2026",
+    "Allowoffline": false
+  }
   
 ]
