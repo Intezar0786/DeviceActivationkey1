@@ -72,12 +72,6 @@
     "Allowoffline": false
   },
   {
-  "device_id": "c368800cb281d90b",
-    "key": "NMMS82786",
-    "expirydate": "15-12-2027",
-    "Allowoffline": false
-  },
-  {
   "device_id": "061902623729f3c6",
     "key": "Magfur786",
     "expirydate": "15-12-2027",
@@ -93,6 +87,12 @@
   "device_id": "368a8d31f56607a8",
     "key": "Chandan",
     "expirydate": "15-12-2026",
+    "Allowoffline": false
+  },
+  {
+  "device_id": "c368800cb281d90b",
+    "key": "NMMS82786",
+    "expirydate": "15-12-2027",
     "Allowoffline": false
   }
   
