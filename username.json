@@ -106,7 +106,13 @@
     "key": "NMMS7",
     "expirydate": "15-11-2026",
     "Allowoffline": false
-   }
+   },
+  {
+  "device_id": "1529892c2b89d114",
+    "key": "NMMSv",
+    "expirydate": "15-11-2026",
+    "Allowoffline": false
+  }
   
   
     
